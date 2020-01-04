@@ -73,7 +73,7 @@
         max-width: 800px;
         margin: 10px auto;
     }
-    .to do-input {
+    .todo-input {
         width: 100%;
         padding: 10px, 20px;
         font-size: 18px;
